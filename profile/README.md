@@ -27,8 +27,8 @@ Components used in this project:
 |17| [SD-card 64GB](https://www.inet.se/produkt/5304540/samsung-microsd-evo-plus-64gb)| 🟢 _Ordered_ |
 ### Legend
 
-- 🔵 **Blue:** Electrical components acquired
-- 🟢 **Green:** Mechanical parts ordered
+- 🔵 **Blue:** Components acquired
+- 🟢 **Green:** Parts ordered
 - 🟡 **Yellow:** Additional accessories pending
 - 🔴 **Red:** Review needed before purchase
 - 🟣 **Purple:** 3D-printed parts in production
