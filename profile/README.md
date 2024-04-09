@@ -17,8 +17,8 @@ Components used in this project:
 |7| [3000mAh 3S 20C Lipo Pack w/XT-60](https://hobbyking.com/en_us/turnigy-battery-3000mah-3s-20c-lipo-pack-xt-60.html)|🔵 _Acquired_ |
 |8| [Lipo Charger](https://www.amazon.se/-/en/gp/product/B087G199LH/ref=ewc_pr_img_1?smid=ADG7ML0RBF414&psc=1)| 🟢 _Ordered_ |
 |9| [Arduino Uno R3](https://www.mouser.se/ProductDetail/SparkFun/DEV-11021?qs=WyAARYrbSnaunJRU8m2iHw%3D%3D)|🔵 _Acquired_ |
-|10| [Fuse holder](https://www.conrad.se/sv/p/tru-components-tc-9070404-sakringsinsats-passar-till-flatsakring-standard-30-a-32-v-dc-1-st-2267601.html)| 🟢 _Ordered_ |
-|11| [Fuse](https://www.conrad.se/sv/p/eska-340127-340-127-standardflatsakring-10-a-rod-1-st-535104.html)| 🟢 _Ordered_ |
+|10| [Fuse holder](https://www.conrad.se/sv/p/tru-components-tc-9070404-sakringsinsats-passar-till-flatsakring-standard-30-a-32-v-dc-1-st-2267601.html)|🔵 _Acquired_ |
+|11| [Fuse](https://www.conrad.se/sv/p/eska-340127-340-127-standardflatsakring-10-a-rod-1-st-535104.html)|🔵 _Acquired_ |
 |12| [Toggle switch](https://www.conrad.se/sv/p/tru-components-1587656-vippstrombrytare-tc-r13-244b-02-b-r-220-v-ac-250-v-ac-10-a-2x-av-pa-lasande-1-st-1587656.html)|🔵 _Acquired_ |
 |13| Jumper cables|🔵 _Acquired_ |
 |14| 22 AWG wires|🔵 _Acquired_ |
