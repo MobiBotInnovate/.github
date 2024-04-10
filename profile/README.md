@@ -11,7 +11,7 @@ Components used in this project:
 |1| [Raspberry Pi 4 (8GB)](https://www.electrokit.com/en/raspberry-pi-4-model-b/8gb)| 🔵 _Acquired_ |
 |2| 2 x [Motors with encoders](https://www.amazon.se/dp/B07WP3XDLC?psc=1&ref=ppx_yo2ov_dt_b_product_details)|🔵 _Acquired_ |
 |3| [RPLiDAR A1](https://www.mouser.se/ProductDetail/426-DFR0315)| 🟢 _Ordered_ |
-|4| [Caster wheel](https://www.mouser.se/ProductDetail/485-3948)| 🟡 _Pending_ |
+|4| [Caster wheel](https://www.mouser.se/ProductDetail/485-3948)| 🟢 _Ordered_ |
 |5| [DC-DC converter Step-down](https://www.electrokit.com/en/dc-dc-omvandlare-step-down-1.25-35v-5a)|🔵 _Acquired_ |
 |6| [Motor driver L298 dual H-bridge 5-35V 2A](https://www.electrokit.com/en/motordrivare-l298-dubbel-h-brygga-5-35v-2a)|🔵 _Acquired_ |
 |7| [3000mAh 3S 20C Lipo Pack w/XT-60](https://hobbyking.com/en_us/turnigy-battery-3000mah-3s-20c-lipo-pack-xt-60.html)|🔵 _Acquired_ |
