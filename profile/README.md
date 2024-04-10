@@ -22,7 +22,7 @@ Components used in this project:
 |12| [Toggle switch](https://www.conrad.se/sv/p/tru-components-1587656-vippstrombrytare-tc-r13-244b-02-b-r-220-v-ac-250-v-ac-10-a-2x-av-pa-lasande-1-st-1587656.html)|🔵 _Acquired_ |
 |13| Jumper cables|🔵 _Acquired_ |
 |14| 22 AWG wires|🔵 _Acquired_ |
-|15| [MPU6050 IMU](https://www.mouser.se/ProductDetail/426-SEN0142)| 🔴 _Needs Review_ |
+|15| [MPU6050 IMU](https://www.mouser.se/ProductDetail/426-SEN0142)| 🟢 _Ordered_ |
 |16| [3D-printed parts]()| 🟣 _In Production_ |
 |17| [SD-card 64GB](https://www.inet.se/produkt/5304540/samsung-microsd-evo-plus-64gb)| 🟢 _Ordered_ |
 ### Legend
