@@ -24,7 +24,7 @@ Components used in this project:
 |14| 22 AWG wires|🔵 _Acquired_ |
 |15| [MPU6050 IMU](https://www.mouser.se/ProductDetail/426-SEN0142)| 🟢 _Ordered_ |
 |16| [3D-printed parts]()| 🟣 _In Production_ |
-|17| [SD-card 64GB](https://www.inet.se/produkt/5304540/samsung-microsd-evo-plus-64gb)| 🟢 _Ordered_ |
+|17| [SD-card 64GB](https://www.inet.se/produkt/5304540/samsung-microsd-evo-plus-64gb)|🔵 _Acquired_ |
 ### Legend
 
 - 🔵 **Blue:** Components acquired
