@@ -64,8 +64,9 @@ Next we need to install the colcon build package.
 ```bash
 sudo apt install python3-argcomplete python3-colcon-common-extensions libboost-system-dev build-essential
 ```
+I recommend to append the following to your bashrc:
 ```bash
-sudo apt install
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 ```
 ## Network Configuration
 ## Differential drive controller
