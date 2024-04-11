@@ -46,8 +46,8 @@ Useful tools
 ### Setup
 ## Development machine
 ## Raspberry Pi setup
-### Format SD card2
-Download the [raspberry pi imager](https://www.raspberrypi.com/software/) for your system. Launch the program and follow the instructions. Choose "other os" then Ubuntu server 22.04 LTS. Modify any settings youd like, i suggest setting up the internet and enabling ssh connection.
+### Format SD card
+Download the [raspberry pi imager](https://www.raspberrypi.com/software/) for your system. Launch the program and follow the instructions. Choose "other os" then Ubuntu server 22.04 LTS. Modify any settings youd like, I suggest setting up the internet and enabling ssh.
 ## Network Configuration
 ## Differential drive controller
 ## SLAM
