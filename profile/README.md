@@ -58,11 +58,9 @@ MAC Address: xx:xx:xx:xx:xx:xx (Huawei Technologies)
 nmap scan report for 192.168.1.30
 ```
 ### Installing ROS2 Humble
-Follow the steps given [here](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html) to install ROS2 humble on your raspberry pi.
+Follow the steps given [here](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html) to install ROS2 humble on your raspberry pi. Depending if you installed the OS on the raspberry pi in headless mode or desktop mode, ```ros-humble-base```and ```ros-humble-desktop``` should be installed respectively.
 
-```bash
-sudo apt update && sudo apt upgrade
-```
+Next we need to install the colcon build package.
 ```bash
 sudo apt install python3-argcomplete python3-colcon-common-extensions libboost-system-dev build-essential
 ```
