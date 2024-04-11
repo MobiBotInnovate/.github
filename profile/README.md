@@ -48,6 +48,9 @@ Useful tools
 ## Raspberry Pi setup
 ### Format SD card
 Download the [raspberry pi imager](https://www.raspberrypi.com/software/) for your system. Launch the program and follow the instructions. Choose "other os" then Ubuntu server 22.04 LTS. Modify any settings youd like, I suggest setting up the internet and enabling ssh.
+### Find the IP-address of the raspberry pi using [nmap](https://nmap.org/)
+1. First install nmap on your system that you want to use to connect to the raspberry pi.
+2. If you are running linux, run ```ip addr``` to find your machines IP address and the network range.
 ## Network Configuration
 ## Differential drive controller
 ## SLAM
