@@ -57,6 +57,18 @@ Download the [raspberry pi imager](https://www.raspberrypi.com/software/) for yo
 MAC Address: xx:xx:xx:xx:xx:xx (Huawei Technologies)
 nmap scan report for 192.168.1.30
 ```
+### Installing ROS2 Humble
+Follow the steps given [here](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html) to install ROS2 humble on your raspberry pi.
+
+```bash
+sudo apt update && sudo apt upgrade
+```
+```bash
+sudo apt install python3-argcomplete python3-colcon-common-extensions libboost-system-dev build-essential
+```
+```bash
+sudo apt install
+```
 ## Network Configuration
 ## Differential drive controller
 ## SLAM
