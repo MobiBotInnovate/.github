@@ -51,6 +51,8 @@ Download the [raspberry pi imager](https://www.raspberrypi.com/software/) for yo
 ### Find the IP-address of the raspberry pi using [nmap](https://nmap.org/)
 1. First install nmap on your system that you want to use to connect to the raspberry pi.
 2. If you are running linux, run ```ip addr``` to find your machines IP address and the network range.
+3. Run ```sudo -ns 192.168.1.x/24```(replace x and 24 with the correct values for your setup)
+4. Identify your raspberry pi. If it does not show, you can try to just ssh to all the hosts. In my case it was named ```MAC Address: xx:xx:xx:xx:xx:xx (Huawei Technologies) nmap scan report for 192.168.1.30```
 ## Network Configuration
 ## Differential drive controller
 ## SLAM
