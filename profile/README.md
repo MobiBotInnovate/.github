@@ -42,7 +42,7 @@ Useful tools
 |4| Lab-bench power supply|
 
 ### Assembly
-
+Current draw is approx 0.5A
 ### Setup
 ## Development machine
 ## Raspberry Pi setup
