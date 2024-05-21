@@ -43,6 +43,8 @@ Useful tools
 
 ### Assembly
 Current draw is approx 0.5A
+### IMU
+The IMU is controlled using the following ros2 package https://github.com/hiwad-aziz/ros2_mpu6050_driver.
 ### Setup
 ## Development machine
 ## Raspberry Pi setup
