@@ -46,6 +46,7 @@ Current draw is approx 0.5A
 ### IMU
 The IMU is controlled using the following ros2 package https://github.com/hiwad-aziz/ros2_mpu6050_driver.
 ### Setup
+The following is the connection diagram for the robots circuitry: ![Wiring](https://github.com/MobiBotInnovate/diffbot/blob/main/wiringD.png)
 ## Development machine
 ## Raspberry Pi setup
 ### Format SD card
