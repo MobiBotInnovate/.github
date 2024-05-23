@@ -44,10 +44,13 @@ Useful tools
 ### Assembly
 Current draw is approx 0.5A
 ### IMU
-The IMU is controlled using the following ros2 package https://github.com/hiwad-aziz/ros2_mpu6050_driver.
+The IMU is controlled using the following ros2 package https://github.com/hiwad-aziz/ros2_mpu6050_driver. The IMU needs to be integrated with the odometry from the wheel encoders.
 ### Setup
 The following is the connection diagram for the robots circuitry: ![Wiring](https://github.com/MobiBotInnovate/diffbot/blob/main/wiringD.png)
 ## Development machine
+Make sure you have ubuntu 22.04 LTS installed on your laptop.
+### Install ROS2 Humble
+- Follow the installation instruction 
 ## Raspberry Pi setup
 ### Format SD card
 Download the [raspberry pi imager](https://www.raspberrypi.com/software/) for your system. Launch the program and follow the instructions. Choose "other os" then Ubuntu server 22.04 LTS. Modify any settings youd like, I suggest setting up the internet and enabling ssh.
